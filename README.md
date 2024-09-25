@@ -1,5 +1,5 @@
 #  Hola, Mi Nombre Es Eric Munoz.
-## Real._.Ericolink en IG
+#### Real._.Ericolink en IG
 -  I’m interested in one piece
 -  I’m currently learning programacion 
 - ️ I’m looking to collaborate on bill gates
