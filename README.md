@@ -35,14 +35,6 @@ Full-stack developer en Ciudad Juárez, próximo a titularme en Ingeniería en D
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ericolink&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ericolink&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericolink&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-##  🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ericolink&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔗 Conecta conmigo
 
