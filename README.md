@@ -14,7 +14,7 @@ Full-stack developer en Ciudad Juárez, próximo a titularme en Ingeniería en D
 **[PaseLink](https://github.com/Ericolink)** — Plataforma de gestión de eventos con check-in por código QR.
 `React 19` `TypeScript` `Firebase` `Vite`
 
-**Triomphe Remates** — Plataforma inmobiliaria full-stack para gestión de propiedades en remate, con panel administrativo completo.
+**Triomphe Remates(https://rematesbancarios.net)** — Plataforma inmobiliaria full-stack para gestión de propiedades en remate, con panel administrativo completo.
 `React 18` `Node.js/Express` `MySQL` `Sequelize` `Cloudinary` `JWT`
 
 ##  🧰 Tech Stack
